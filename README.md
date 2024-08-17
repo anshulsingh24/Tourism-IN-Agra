@@ -25,21 +25,11 @@ Installation
 To run this project locally, follow these steps:
 
 Clone the repository:
-bash
-Copy code
 git clone https://github.com/anshulsingh24/Tourism-IN-Agra
+
 Navigate to the project directory:
-bash
-Copy code
 cd agra-tourism-website
-Install the required dependencies:
-bash
-Copy code
-npm install
-Start the development server:
-bash
-Copy code
-npm start
+
 Contributing
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Feel free to fork the repository and submit a pull request with your improvements.
 
