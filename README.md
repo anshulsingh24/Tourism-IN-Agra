@@ -17,7 +17,7 @@ To run this project locally, follow these steps:
 Clone the repository:
 bash
 Copy code
-git clone h[ttps://github.com/yourusername/agra-tourism-website.git](https://github.com/anshulsingh24/Tourism-IN-Agra)
+git clone https://github.com/anshulsingh24/Tourism-IN-Agra
 Navigate to the project directory:
 bash
 Copy code
